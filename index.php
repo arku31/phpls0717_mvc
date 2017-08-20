@@ -1,6 +1,7 @@
 <?php
 require_once "core/config.php";
 require_once "core/view.php";
+require_once __DIR__."/vendor/autoload.php";
 // /users/test
 $routes = explode('/', $_SERVER['REQUEST_URI']);
 
