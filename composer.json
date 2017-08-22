@@ -4,6 +4,10 @@
         "phpmailer/phpmailer": "^5.2",
         "google/recaptcha": "^1.1",
         "twig/twig": "^2.4",
-        "paquettg/php-html-parser": "^1.7"
+        "paquettg/php-html-parser": "^1.7",
+        "illuminate/database": "^5.2",
+        "fzaninotto/faker": "^1.6",
+        "intervention/image": "^2.3",
+        "wixel/gump": "^1.5"
     }
 }

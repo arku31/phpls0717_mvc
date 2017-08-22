@@ -1,0 +1,1 @@
+Для запуска тестов codeception необходимо запускать vendor/bin/codecept run

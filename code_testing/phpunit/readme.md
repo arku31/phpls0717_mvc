@@ -1,0 +1,1 @@
+Используйте vendor/bin/phpunit phpunit.php для запуска тестов
